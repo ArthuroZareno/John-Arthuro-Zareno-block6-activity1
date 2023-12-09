@@ -8,4 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="hatdog">#FF2FFFFF</color>
+    <color name="hatdogs">#FF22FFFF</color>
 </resources>
